@@ -20,7 +20,7 @@ This project was built to improve my understanding of Unity fundamentals, game p
 
 - 🚀 Smooth rocket movement
 - 🔥 Realistic thrust mechanics
-- ⚡ Dash system for quick horizontal movement
+- ⚡ Dash system for quick movement
 - 💥 Particle effects for:
   - Rocket thrust
   - Dash
@@ -41,48 +41,42 @@ This project was built to improve my understanding of Unity fundamentals, game p
 
 | Key | Action |
 |------|--------|
-| **A** | Move Left |
-| **D** | Move Right |
-| **Space** | Thrust Up |
-| **Q** | Dash Left |
-| **E** | Dash Right |
+| **A** | Tilt Left |
+| **D** | Tilt Right |
+| **Space** | Thrust in the direction faced|
+| **C**| Dash|
 
 ---
 
 ## 📷 Screenshots
 
-### Level Environment
+### Player
+<img width="1279" height="799" alt="Screenshot 2026-07-02 231050" src="https://github.com/user-attachments/assets/806de87e-90b4-4588-9fd5-29cd4384a7ea" />
+<img width="1274" height="659" alt="Screenshot 2026-07-02 230141" src="https://github.com/user-attachments/assets/281e5bd6-a5fe-486a-844f-1c7981bf6d76" />
+<img width="1279" height="799" alt="Screenshot 2026-07-02 231118" src="https://github.com/user-attachments/assets/2a827b94-272d-4e95-9597-98d8014c6b49" />
+<img width="1279" height="799" alt="Screenshot 2026-07-02 231125" src="https://github.com/user-attachments/assets/c40d5fd1-109c-4bc8-90d6-adafc970cf41" />
 
-<p align="center">
-<img src="Images/level1.png" width="700">
-</p>
 
----
+### Level 1
+<img width="845" height="430" alt="Screenshot 2026-07-02 230019" src="https://github.com/user-attachments/assets/6245f8f5-35ce-45ec-9409-85d140e53ec5" />
 
-### Obstacles
+### Level 2
+<img width="856" height="400" alt="Screenshot 2026-07-02 230027" src="https://github.com/user-attachments/assets/bbb03937-25b5-445d-92f2-3ffe646f689e" />
 
-<p align="center">
-<img src="Images/obstacles.png" width="700">
-</p>
+### Level 3
+<img width="851" height="422" alt="Screenshot 2026-07-02 230033" src="https://github.com/user-attachments/assets/bf085d5f-e70d-47e9-aa42-f79d6eba70fb" />
 
----
+### Level 4
+<img width="854" height="430" alt="Screenshot 2026-07-02 230042" src="https://github.com/user-attachments/assets/7fcf5154-37a1-4ac9-96cc-b41795eb4bcb" />
 
-### Gameplay
+### Level 5
+<img width="851" height="440" alt="Screenshot 2026-07-02 230057" src="https://github.com/user-attachments/assets/1b350d6e-5972-4c6e-82d3-6f1f9ad69f82" />
 
-<p align="center">
-<img src="Images/gameplay.png" width="700">
-</p>
+### Ending
+<img width="1276" height="653" alt="Screenshot 2026-07-02 230219" src="https://github.com/user-attachments/assets/ead392ca-34c0-447d-8d88-aea7b4ab3698" />
 
----
 
-### Finish
 
-<p align="center">
-<img src="Images/finish.png" width="700">
-</p>
-
----
-<img width="845" height="430" alt="Screenshot 2026-07-02 230019" src="https://github.com/user-attachments/assets/06e56da7-0ad1-4f48-bc0a-dcdaa8fafe7a" />
 
 ## 🛠 Built With
 
@@ -95,24 +89,6 @@ This project was built to improve my understanding of Unity fundamentals, game p
 
 ---
 
-## 📂 Project Structure
-
-```
-Assets
-│
-├── Animations
-├── Audio
-├── Materials
-├── Models
-├── Particle Effects
-├── Prefabs
-├── Scenes
-├── Scripts
-├── Textures
-└── UI
-```
-
----
 
 ## 🧠 What I Learned
 
@@ -149,29 +125,7 @@ Some features I'd like to add in future versions:
 
 ---
 
-## 🎥 Gameplay
 
-You can watch the gameplay here:
-
-*(Add your YouTube video or GIF here later.)*
-
----
-
-## 📥 Installation
-
-1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/Rocket-Escape.git
-```
-
-2. Open the project in Unity.
-
-3. Load the first scene.
-
-4. Press Play.
-
----
 
 ## 🤝 Contributing
 
@@ -189,6 +143,6 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Mohammed Sohail Abrar Khan**
+**Pathan Mohammed Sohail Abrar Khan**
 
-First Unity Game • Built with ❤️ using Unity and C#
+Second Unity Game • Built with ❤️ using Unity and C#
