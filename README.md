@@ -3,6 +3,7 @@
 > A 3D Unity game where you pilot a rocket through increasingly dangerous obstacle courses using precise movement, thrust, and dash mechanics.
 
 Play the game here - https://pmsak.itch.io/rocket-rush
+
 ---
 
 ## 📖 About
